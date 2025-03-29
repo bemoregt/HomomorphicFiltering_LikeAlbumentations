@@ -2,6 +2,8 @@
 
 Implementation of homomorphic filtering as an Albumentations transform for image enhancement and normalization.
 
+![Homomorphic Filtering Example](homolena.gif)
+
 ## Description
 
 Homomorphic filtering is a frequency domain filtering technique used to:
